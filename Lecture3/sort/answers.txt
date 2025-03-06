@@ -1,0 +1,16 @@
+sort1 uses: Bubble Sort
+
+How do you know?: On the sorted list, the sort run the fastest compared the others
+
+sort2 uses: Merge Sort
+
+How do you know?: On the unsorted list, the sort run the fastest compared the others
+
+sort3 uses: Selection Sort
+
+How do you know?: On both list, the sort run roughly the same amount of time to run
+
+
+for self reference,
+use "time ./sort(n) (list)" to run the code to determine the run time.
+
