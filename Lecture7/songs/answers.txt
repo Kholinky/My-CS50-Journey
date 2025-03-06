@@ -1,0 +1,19 @@
+Here's more indept data about the person's music listening preferences based on average energy, valence and danceability
+
+ENERGY
+Avg energy of music is 0.659
+
+VALENCE
+Avg valence of music is 0.484
+
+DANCEABILITY
+Avg danceability of music is 0.716
+
+Conclusion:
+Based on the person's avg valence, I can conclude that the person is from the Blue aura group as
+the person listens to both sad and happy music. This person seeks for music to feel their music
+out loud
+
+Hypothesize:
+The data from the person top 100 songs might not give accurate information of the user, we might
+need to have more data from what the user is listening to.
